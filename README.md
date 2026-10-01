@@ -17,8 +17,8 @@ python pdf_merger.py
 
 1. Click **Browse…** to pick a folder with PDFs
 2. Review the sorted list
-3. Click **Merge into PDF…** and choose where to save and the saved file's name
-4. Open the merged PDF — the bookmarks panel shows each lecture
+3. Click **Merge into PDF** and choose where to save and the saved file's name
+4. Open the merged PDF - the bookmarks panel shows each lecture
 
 ## Requirements
 
